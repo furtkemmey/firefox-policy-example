@@ -8,8 +8,8 @@
   }
   
 ## 目錄跟檔名
-目錄是distribution
-檔名是policies.json
+- 目錄是distribution
+- 檔名是policies.json
 distribution/policies.json
 
 ## 位置
