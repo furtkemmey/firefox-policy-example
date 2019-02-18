@@ -1,6 +1,6 @@
 # firefox-policy-example
 ## 檔案內容
-
+- JSON格式,範例如下
   {
     "policies": {
       "DisableAppUpdate": true
