@@ -15,3 +15,6 @@
 ## 位置
 - 放置於
 - C:\Program Files (x86)\Mozilla Firefox
+
+## 注意
+設定完後要關閉重開火狐
